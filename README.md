@@ -1,1 +1,1 @@
-inicion.php
+inicio.php
